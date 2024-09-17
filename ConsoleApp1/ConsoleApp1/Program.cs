@@ -13,6 +13,7 @@ namespace ConsoleApp1
             int szam = Convert.ToInt32(Console.ReadLine());
             switch (szam)
             {
+                /*miau*/
                 case 3: Console.WriteLine("Osztható 3-mal"); break;
                 case 6: Console.WriteLine("Osztható 3-mal"); break;
                 case 9: Console.WriteLine("Osztható 3-mal"); break;
